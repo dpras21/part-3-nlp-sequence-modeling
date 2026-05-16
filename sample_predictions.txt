@@ -1,0 +1,8 @@
+Text: "The service was excellent"
+Predicted Sentiment: Positive
+
+Text: "My refund is delayed"
+Predicted Sentiment: Negative
+
+Text: "I need more information"
+Predicted Sentiment: Neutral
